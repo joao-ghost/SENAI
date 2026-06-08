@@ -1,0 +1,19 @@
+.quadrado{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+.vermelho{
+    background-color: red;
+}
+.amarelo{
+    background-color: yellow;
+}
+.verde{
+    background-color: green;
+}
+p{
+    color: white;
+    text-align: center;
+    line-height: 100px;
+}
