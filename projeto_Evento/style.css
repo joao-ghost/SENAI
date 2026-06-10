@@ -1,0 +1,22 @@
+.cartao{
+    height: 100px;
+    margin: 100px;
+    padding: 20%;
+    background-color: dimgrey;
+    border-radius: 20px
+}
+h1{
+    font-size: 16px;
+    color: aqua;
+}
+p{
+    font-size: 12px;
+    color: white;
+}
+span{
+    font-weight: 700;
+    color: aqua;
+}
+span{
+    color: aqua;
+}
