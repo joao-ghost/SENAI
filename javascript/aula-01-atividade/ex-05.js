@@ -1,0 +1,6 @@
+let n1 = (25+15)
+let n2 = (100-45)
+let n3 = (12*8)
+let n4 = (144/12)
+let n5 = (17%5)
+console.log(n1, n2, n3, n4, n5)
